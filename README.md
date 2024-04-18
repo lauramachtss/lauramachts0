@@ -5,6 +5,7 @@
 🌱 No momento, estou aprendendo Rust, enquanto continuo aprofundando meus conhecimentos em Javascript, Python, C. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
 
 📫 Você pode me encontrar no [https://lauramachts0.github.io/Portfolio-Pessoal] ou nas redes sociais:
+
 [https://www.linkedin.com/in/laura-schneider-1bab1b2ba] [https://www.instagram.com/_lauramachts].
 
 
