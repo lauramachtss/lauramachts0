@@ -6,7 +6,7 @@
 
 📫 Você pode me encontrar no [https://lauramachts0.github.io/Portfolio-Pessoal] ou nas redes sociais:
 
-[https://www.linkedin.com/in/laura-schneider-1bab1b2ba] [https://www.instagram.com/_lauramachts].
+[https://www.linkedin.com/in/laura-schneider-1bab1b2ba] && [https://www.instagram.com/_lauramachts]
 
 
 
