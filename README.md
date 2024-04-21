@@ -8,6 +8,10 @@
 
 [https://www.linkedin.com/in/laura-schneider-1bab1b2ba] && [https://www.instagram.com/_lauramachts]
 
+<a href="https://github.com/RafaBallerini">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
