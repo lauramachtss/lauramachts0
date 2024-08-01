@@ -1,6 +1,6 @@
 👋 Olá, eu sou a Laura!
 
-🚀 Amante da tecnologia, estou sempre em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberta a colaborações e aprendizado, estou comprometida em contribuir para a comunidade de desenvolvimento de software.
+🚀 Amante da tecnologia, estou em busca de aprimorar minhas habilidades de desenvolvimento. Sempre aberta a colaborações e aprendizado, estou comprometida em contribuir para a comunidade de desenvolvimento de software.
 
 🌱 No momento estou aprendendo Rust, enquanto continuo aprofundando meus conhecimentos em Java e PHP. Estou sempre em busca de projetos interessantes para contribuir, seja em projetos pessoais ou em iniciativas de código aberto.
 
